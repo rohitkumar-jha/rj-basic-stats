@@ -1,0 +1,21 @@
+{
+  "name": "rj-basic-stats",
+  "version": "1.0.0",
+  "description": "To use basic statistics functions to calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rj-basic-stats",
+    "statistics",
+    "stats",
+    "rj",
+    "mean",
+    "variance",
+    "std",
+    "se"
+  ],
+  "author": "Rohitkumar Jha",
+  "license": "ISC"
+}
